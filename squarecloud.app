@@ -1,0 +1,6 @@
+DISPLAY_NAME=Arés
+DESCRIPTION=Bot
+MAIN=index.js
+MEMORY=1000
+VERSION=recommended
+START=npm start 

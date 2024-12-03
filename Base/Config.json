@@ -1,0 +1,45 @@
+{
+  "server_id": "1270122089843654728",
+  "text": {
+    "separator": "**|**",
+    "separator2": "|",
+    "separator3": "**|**"
+  },
+  "emojis": {
+    "money": "💸",
+    "ping": "🏓",
+    "laptop": "💻",
+    "leaf": "🍃",
+    "clock": "⌛",
+    "success": "👍",
+    "error": "❌",
+    "key": "🔑"
+  },
+  "colors": {
+    "default": "#64FFA0"
+  },
+  "images": {},
+  "links": {
+    "official_guild": "https://discord.gg/8pmtPsdHrU",
+    "invitation_url": "https://discord.com/oauth2/authorize?client_id=1270126153960652812&permissions=8&integration_type=0&scope=bot"
+  },
+  "permissions": {
+    "developer": {
+      "sky": "1203588092800540742",
+	  "kenay": "1100483689135210556"
+	  
+    },
+    "moderator": {
+      "sky": "1203588092800540742",
+	  "kenay": "1100483689135210556"
+    }
+  },
+  "channels": {
+    "channel_event_send_1hour": [
+      "1270364512650006558"
+    ]
+  },
+  "cargo_com_desconto": "1204578928455585882",
+  "channel_raffle": "1270363976391196762",
+  "buy_log_channel": "1270364431817244817"
+}
